@@ -226,3 +226,4 @@ class EventServiceImplTest {
 		eventServiceImpl.addStudentToEvent(student2, 2);
 	}
 
+}
