@@ -77,7 +77,6 @@ class EventServiceImplTest {
 	}
 	
 	@Test
-
 	void testUpdateEventName_TooLong () {
 		int eventID = 1;
 		Assertions.assertThrows(StudyUpException.class,  () -> {
