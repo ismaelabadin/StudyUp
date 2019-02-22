@@ -2,7 +2,7 @@ language: java
 jdk: openjdk11
 script: 
     - mvn clean
-    - mvn spotpugs:spotbugs
+    - mvn spotbugs:spotbugs
     - mvn install test
 after_success:
     - mvn jacoco:report coveralls:report
