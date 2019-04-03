@@ -1,0 +1,2 @@
+# StudyUp
+This project was completed over the course of a quarter in ECS 161 at UC Davis. The main idea of the project was to create a simple app that allowed students near each other to create study events, where they could meet up at a pre-determined time and location. Over the course of the quarter, we learned how to use basic Git commands, as well as the concepts of unit testing, static analysis (SpotBugs), continuous integration (Travis), docker, hotswapping, and how to use the Google Cloud Console.
